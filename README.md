@@ -1,4 +1,4 @@
-#FastAPI Nunchito
+# FastAPI Nunchito
 
 - Project to practice some Fullstack abilities haha
 - Nice to implement features:
